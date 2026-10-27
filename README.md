@@ -24,6 +24,7 @@ Inspired by the universe, stars, and galaxies, VASTRAA combines a futuristic vis
 ## 🧰 Tech Stack
 
 **Frontend**
+- React.js
 - HTML
 - CSS
 - Vanilla JavaScript
